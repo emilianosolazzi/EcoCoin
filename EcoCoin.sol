@@ -10,7 +10,7 @@ pragma solidity 0.8.26;
  * Ownership of this code belongs to Emiliano Solazzi. 
  * Permission from Emiliano Solazzi is required for any commercial or 
  * non-commercial usage beyond the terms set by the MIT License. 
- * For questions on licensing and use permissions, contact Emiliano Solazzi.
+ * For questions on licensing and use permissions, contact Emiliano Solazzi. main@bitcoincab.net
  */
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
